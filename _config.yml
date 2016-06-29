@@ -1,0 +1,14 @@
+layout_spectrum: 0.24731745617464185
+typography_spectrum: 0.3080576453357935
+color:
+  brandStrength: 0.10918464208953083
+  lightness: 0.5394938634708524
+  saturation: 0.0301647768355906
+  rhythmicContrast: 0.7775734367314726
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: inkmark
